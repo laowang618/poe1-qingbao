@@ -1,8 +1,6 @@
 #获取容器里(背包，仓库)物品的相对坐标
 import pydirectinput
-#from windowed_coord import WindowedCoord
 from windowed_coord import WindowedCoord
-import time
 
 
 class GetContainerItemRelativeCoord:

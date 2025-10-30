@@ -1,12 +1,7 @@
-import time
-from time import sleep
-
 import pydirectinput
-import keyboard
 import threading
 
 from get_container_item_relative_coord import GetContainerItemRelativeCoord
-from windowed_coord import WindowedCoord
 
 
 

@@ -2,7 +2,7 @@ import sys
 import keyboard
 from PyQt5.QtWidgets import (QApplication, QMainWindow, QVBoxLayout, QWidget,
                              QComboBox, QStatusBar, QPushButton, QHBoxLayout)
-from PyQt5.QtCore import Qt, pyqtSignal, QObject
+from PyQt5.QtCore import pyqtSignal, QObject
 from PyQt5.QtGui import QPainter, QColor, QBrush
 import threading
 
